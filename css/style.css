@@ -1,3 +1,19 @@
+/* Tablets */
+@media screen and (min-width:576px) and (max-width:991px) {
+    .carousel-caption h1{
+        font-size: 16px;
+    }
+    .carousel-caption p{
+        font-size: 10px;
+    }
+    .carousel-caption button{
+        font-size: 14px;
+    }
+
+    .details{
+        margin-top: -20px;
+    }
+}
 
 /* General Mobile  */
 @media screen and (min-width:338px) and (max-width:575px) {
