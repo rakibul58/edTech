@@ -1,3 +1,35 @@
-@media screen and (max-width:575px) {
-    
+
+/* General Mobile  */
+@media screen and (min-width:338px) and (max-width:575px) {
+    .carousel-caption h1{
+        font-size: 12px;
+    }
+    .carousel-caption p{
+        font-size: 6px;
+    }
+    .carousel-caption button{
+        font-size: 10px;
+    }
+
+    .details{
+        margin-top: -20px;
+    }
+}
+
+/* very small devices */
+
+@media screen and  (max-width:337px) {
+    .carousel-caption h1{
+        font-size: 10px;
+    }
+    .carousel-caption p{
+        font-size: 4px;
+    }
+    .carousel-caption button{
+        font-size: 8px;
+    }
+
+    .details{
+        margin-top: -30px;
+    }
 }
