@@ -2,6 +2,9 @@
     width: 120px;
     height: auto;
 }
+.fa-brands{
+    font-size: 15px;
+}
 
 /* Tablets */
 @media screen and (min-width:576px) and (max-width:991px) {
