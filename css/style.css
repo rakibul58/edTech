@@ -66,7 +66,13 @@
 /* Custom */
 
 @media screen and (min-width:576px) and (max-width:1159px) {
-    .elearnig-text h1 , p , h5{
+    .elearnig-text h1{
+        font-size: 0.6rem;
+    }
+    .elearnig-text h5{
+        font-size: 0.6rem;
+    }
+    .elearnig-text p{
         font-size: 0.6rem;
     }
 }
